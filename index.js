@@ -19,3 +19,5 @@ const leastFavoriteCustomer = 'Nick';
 function changeLeastFavoriteCustomer(){
   leastFavoriteCustomer = 'Bill'
 }
+
+// this is a test of the emergency broadcast system
